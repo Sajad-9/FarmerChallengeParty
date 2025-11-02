@@ -45,7 +45,7 @@ Your goal: **harvest, survive, and outplay your friends on the farm!**
 1. Clone the repo:
    ```bash
    git clone https://github.com/Sajad-9/FarmerChallengeParty.git
-
+```
     Open in Unity 6.x
 
     Load MainScene.unity
